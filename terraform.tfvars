@@ -1,5 +1,5 @@
 profile = "loom"
 region = "us-west-2"
-full_user = "loom"
+full_user = "loom-full"
 external_user = "loom-external"
 bucket_name = "loom.raybeam"
